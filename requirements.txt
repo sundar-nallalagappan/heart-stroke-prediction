@@ -1,0 +1,14 @@
+pandas
+matplotlib
+seaborn
+numpy
+scikit-learn
+xgboost
+plotly
+imblearn
+xgboost
+catboost
+pymongo
+pyyaml
+evidently==0.1.43.dev1
+-e.
